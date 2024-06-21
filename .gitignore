@@ -1,6 +1,8 @@
 obj_dir
 *.log
+*.jou
 *.out
 *.vcd
 tags
 .DS_Store
+project_1/*
