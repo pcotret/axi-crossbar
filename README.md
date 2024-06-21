@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/dpretet/axi-crossbar)](https://github.com/dpretet/axi-crossbar/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/dpretet/axi-crossbar)](https://github.com/dpretet/axi-crossbar/network)
 
-## Quick start guide for Vivado project
+## Quick start guide for Vivado project
 
 ```bash
 git clone --recurse-submodules https://github.com/pcotret/axi-crossbar
